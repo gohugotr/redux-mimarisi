@@ -1,5 +1,5 @@
-# Redux Mantığı
+# Redux Mantığı / reduxjs/toolkit
 
-### Kurulum
+### Kurulum - reduxjs/toolkit
 
-`yarn add redux react-redux` veya `npm install redux react-redux`
+`yarn add react-redux @reduxjs/toolkit` veya `npm install react-redux @reduxjs/toolkit`
